@@ -1,0 +1,41 @@
+Important Coding Questions for Practice Note:
+The content of this PDF is only meant for educational purposes and don’t solely depend on this PDFalone for your interview preparation
+
+I have divided the questions into4 categories
+
+1. String Operations
+2. Array Based
+3. General Coding Questions
+4. Miscellaneous
+
+String Operations
+
+1.Write a code to find if a string is Palindrome
+2.Write a code to check No. of vowels in a given string
+3.Write a code to find largest substring without duplicate or repeated characters in a string
+4.Write a code to remove duplicates from a given string
+5.Write a code to find the count of a character in a string
+
+Array Based
+
+1. Write a program to Sort the given integer array in ascending order
+2. Write a program to print the sum of odd elements in an array
+3. Write a program to find Kth largest element in an Array
+4. Write a program to find subarray whose elements when added equals to the given inputfrom the user. Print 'No' if no such sub array is present
+5. Write a program to merge two arrays
+
+General Questions
+
+1. Fibonacci Series using Recursion
+2. Write a program to check if a given number is prime
+3. Write a program to check if a year is Leap or not
+4. Write a program to check if a number is Armstrong or not.
+5. Write a program to sum of all digits in a number'
+
+Miscellaneous
+
+1. Write a program to Replace 1s with 0s in a given number
+2. Write a program to print the following Pyramid pattern.AA B AA B C B AA B C D C B A
+3. Write a program to sort first half of an array into ascending and second half of the arrayinto descending if the given array has even number of elements.
+4. Write a program to convert binary number to decimal
+5. Write a program to check if given three numbers forms a Pythagorean triplet.
